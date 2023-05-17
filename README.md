@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arowo
 - 👀 I’m a a beginer in Front end development
-- 🌱 I’m currently learning html&css
+- Html,Css and Javascript
 - 💞️ I’m looking to collaborate with fellow devlopers here and horn my skilss
 - Add me on twitter @arowosaanu
 
